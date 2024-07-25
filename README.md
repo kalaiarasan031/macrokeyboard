@@ -53,9 +53,8 @@ links to footprint:
 
 ### Files
 
-This zip file contains all the kicad files along with gerber files in gerber.zip
-
-
+The Main branch cointains all the gerber files along with KiCAD files.
+[github]https://github.com/kalaiarasan031/macrokeyboard
 
 ### Assembly
 
