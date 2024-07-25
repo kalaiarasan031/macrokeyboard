@@ -22,7 +22,7 @@ Hardware Selection in really important and it can highly personalized as per the
 ### Circuit Diagram:
 
 here is my approach in circuit diagram,however feel free to change it as per your need. Lot of guides and websites may use the column and row approach for wiring the keys with micro controller. However since we only have 9 keys and fewer accessories than the n.o of pins out choice of micro controller seems to offer. We can directly wire our keys to a individual pins.
-![image](https://github.com/user-attachments/assets/2650cf80-ca17-48cc-a1a2-7e1cf4bbf7a8)
+![image](https://github.com/user-attachments/assets/199f0f8b-6e76-4b5b-a77c-fd03f5fc4566)
 
 
 
@@ -42,7 +42,8 @@ PCB Fabrication - Since we had access to PCB fabrication facility in our univers
 
 Down here is the routing i have followed but you can change it as per your requirements:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/11efc2b9-f43e-43fe-9b05-3878c054a73d/fb3253c9-dbd7-43dc-bb0f-0f2d1edfebf2/Untitled.png)
+![image](https://github.com/user-attachments/assets/cc096749-d7e0-4fec-aedf-90d3d18de3b0)
+
 
 links to footprint:
 
@@ -54,7 +55,7 @@ links to footprint:
 
 This zip file contains all the kicad files along with gerber files in gerber.zip
 
-[macro keyboard.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/11efc2b9-f43e-43fe-9b05-3878c054a73d/47a508b6-a13e-4840-bca5-544fbc6fd0b9/macro_keyboard.zip)
+
 
 ### Assembly
 
