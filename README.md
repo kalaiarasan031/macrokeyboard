@@ -22,6 +22,7 @@ Hardware Selection in really important and it can highly personalized as per the
 ### Circuit Diagram:
 
 here is my approach in circuit diagram,however feel free to change it as per your need. Lot of guides and websites may use the column and row approach for wiring the keys with micro controller. However since we only have 9 keys and fewer accessories than the n.o of pins out choice of micro controller seems to offer. We can directly wire our keys to a individual pins.
+
 ![image](https://github.com/user-attachments/assets/199f0f8b-6e76-4b5b-a77c-fd03f5fc4566)
 
 
@@ -54,7 +55,6 @@ links to footprint:
 ### Files
 
 The Main branch cointains all the gerber files along with KiCAD files.
-[github]https://github.com/kalaiarasan031/macrokeyboard
 
 ### Assembly
 
