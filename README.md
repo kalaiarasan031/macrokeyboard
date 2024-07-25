@@ -58,6 +58,6 @@ The Main branch cointains all the gerber files along with KiCAD files.
 
 ### Assembly
 
-switches can be soldered directly to the board.
+Switches can be soldered directly to the board.
 
-you may solder female pin header for pico, oled and rotary encoder for hot swapabality, i highly suggest female pin header for pico alone as the hardware can be repurposed easily when needed.
+you may solder female pin header for pico, oled and rotary encoder for hot swapabality, we highly suggest female pin header for pico alone as the hardware can be repurposed easily when needed.
